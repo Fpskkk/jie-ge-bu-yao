@@ -442,9 +442,9 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         }
         if (cps <= 3) return '这个彬彬就是逊啦';
         if (cps <= 5) return '逊呐';
-        if (cps <= 8)  return '杰哥不要啦';'
-        if (cps <= 15) return '都点烂了罢（恼）';
-        if (cps <= 30) return '您是人？';
+        if (cps <= 8)  return '杰哥不要啊';
+        if (cps <= 15) return '都快被点烂了';
+        return '人？';
     }
 
     function toStr(obj) {
