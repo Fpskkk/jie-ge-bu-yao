@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# jiegebuyaila
+# 杰哥不要啦
 **新概念Home游戏**
 </div>
 
